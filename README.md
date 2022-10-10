@@ -1,4 +1,4 @@
-## Thanks for being here! 👋🏻🥰 
+## Thanks for being here! 👋
 
 ### My name's Vishal and I'm a Full-Stack Developer! 💻
 #### 🎉 Fun Fact I'm excited for web3 & Co-Own a Solana Project!
