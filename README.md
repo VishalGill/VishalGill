@@ -1,7 +1,7 @@
 ## Thanks for being here! 👋🏻🥰 
 
 ### My name's Vishal and I'm a Full-Stack Developer! 💻
-#### 🎉 Fun Fact 
+#### 🎉 Fun Fact I'm excited for web3 & Co-Own a Solana Project!
 #### 🎨 My favorite thing about programming is that I can create anything that I can imagine.
 #### 👷🏻‍♀️ I'm currently on week 8 of 12 of General Assembly's Software Engineering Course and am projected to graduate November 15th 🎓
 #### 📚 In this unit we're diving into the back end and learning MongoDB and Express!
