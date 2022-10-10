@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![VishalGill](https://github-readme-stats.vercel.app/api?username=VishalGill)](https://github.com/VishalGill/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalGill&layout=compact)](https://github.com/VishalGill/github-readme-stats)
+
 <!--
 **VishalGill/VishalGill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
