@@ -1,8 +1,8 @@
-### Hi there 👋, Vishal Gill
+### Hi there 👋, My name is Vishal Gill
 #### Full Stack Software Engineer
 ![Full Stack Software Engineer](https://media-exp1.licdn.com/dms/image/C4E16AQFDadJtraBMUA/profile-displaybackgroundimage-shrink_350_1400/0/1668277449477?e=1674086400&v=beta&t=nFO7-zAs4sRZo3Qg73eSS4_2eTf7n7KKwhz_uc0f1JM)
 
-My name is Vishal. I'm from New York City. I'm a Full Stack Software Engineer. I'm proficient in Javascript, TypeScript, Python & MERN Stack. I'm currently learning DSA & OS and grinding leetcode.
+I go by Vish. I'm from New York City. I'm a Full Stack Software Engineer. I'm proficient in Javascript, TypeScript, Python & MERN Stack. I'm currently learning DSA & OS and grinding leetcode.
 
 Skills: JavaScript | TypeScript | Python | MERN
 
