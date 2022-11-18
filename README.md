@@ -1,15 +1,19 @@
-## Thanks for being here! 👋
+### Hi there 👋, Vishal Gill
+#### Full Stack Software Engineer
+![Full Stack Software Engineer](https://media-exp1.licdn.com/dms/image/C4E16AQFDadJtraBMUA/profile-displaybackgroundimage-shrink_350_1400/0/1668277449477?e=1674086400&v=beta&t=nFO7-zAs4sRZo3Qg73eSS4_2eTf7n7KKwhz_uc0f1JM)
 
-### My name's Vishal and I'm a Full-Stack Developer! 💻
-#### 🎉 Fun Fact I'm excited for web3 & own a Solana Project called Node Doctor!
-#### 🎨 My favorite thing about programming is that I can create anything that I can imagine.
-#### 👷🏻‍♀️ I'm currently on week 8 of 12 of General Assembly's Software Engineering Course and am projected to graduate November 15th 🎓
-#### 📚 In this unit we're diving into the back end and learning MongoDB and Express!
-#### 📬 The BEST way to reach me is via email @ vgilldev@gmail.com
-_
+My name is Vishal. I'm from New York City. I'm a Full Stack Software Engineer. I'm proficient in Javascript, TypeScript, Python & MERN Stack. I'm currently learning DSA & OS and grinding leetcode.
 
-### 🔧 My Toolbox!
+Skills: JavaScript | TypeScript | Python | MERN
 
-![javascript-logo](    https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React Logo](    https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![React Router Logo](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![HTML Logo](    https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS Logo](    https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![Express Logo](    https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![SQL Logo](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) 
+- 🌱 I’m currently learning Data Structure & Algorithms  
+- 🤔 I’m looking for help with Career Advice 
+- 📫 How to reach me: vgilldev@gmail.com 
+- ⚡ Fun fact: I own sneakers reselling business & a solana NFT project. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/VishalGill)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vgilldev//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/VGillDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.vishalgill.com)  
+
+
 
 [![VishalGill](https://github-readme-stats.vercel.app/api?username=VishalGill)](https://github.com/VishalGill/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalGill&layout=compact)](https://github.com/VishalGill/github-readme-stats)
