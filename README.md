@@ -15,5 +15,3 @@ Skills: JavaScript | TypeScript | Python | MERN
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/VishalGill)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vgilldev//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/VGillDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.vishalgill.com)  
 
 
-
-[![VishalGill](https://github-readme-stats.vercel.app/api?username=VishalGill)](https://github.com/VishalGill/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalGill&layout=compact)](https://github.com/VishalGill/github-readme-stats)
