@@ -9,7 +9,7 @@ I'm from New York City. I'm a Full Stack Software Engineer. I'm proficient in Ja
 - 🌱 I’m currently learning Data Structure & Algorithms  
 - 🤔 I’m looking for help with Career Advice 
 - 📫 How to reach me: vgilldev@gmail.com 
-- ⚡ Fun fact: I own sneakers reselling business & a solana NFT project. 
+- ⚡ Fun fact: I own a sneakers reselling business & a solana NFT project. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/VishalGill)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vgilldev//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/VGillDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.vishalgill.com)  
