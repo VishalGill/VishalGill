@@ -8,7 +8,33 @@
 > Stats auto-updated by [aidevops](https://aidevops.sh).
 
 <!-- STATS-START -->
-<!-- Stats will be populated on first update -->
+## Work with AI
+
+| Metric | 24h | 7 Days | 28 Days | 365 Days |
+| --- | ---: | ---: | ---: | ---: |
+| Screen time (Mac) | 0h | 0h | 0h | ~0h* |
+| User AI session hours | 0.0h | 0.0h | 0.0h | 0.0h |
+| AI worker hours | 0.0h | 0.0h | 0.0h | 0.0h |
+| AI concurrency hours | 0.0h | 0.0h | 0.0h | 0.0h |
+| Interactive sessions | 1 | 1 | 1 | 1 |
+| Worker sessions | 0 | 0 | 0 | 0 |
+
+_Screen time from macOS display events, snapshotted daily. *365-day extrapolated (accumulating real data)._
+
+_User AI session hours measured from AI message timestamps (reading, thinking, typing between responses)._
+
+## AI Model Usage (last 30 days)
+
+| Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| claude-sonnet-4-6 | 2 | 4 | 128 | 0 | $0.21 | $0.00 | $0.01 |
+| **Total** | **2** | **4** | **128** | **0** | **$0.21** | **$0.00** | **$0.01** |
+
+_54K total tokens processed. 0% cache hit rate._
+
+_$0.01 total saved ($0.00 caching + $0.01 model routing vs all-Opus)._
+
+_Model savings are modest because ~0% of tokens are cache reads, where price differences between models are small._
 <!-- STATS-END -->
 
 <!-- CONTRIBUTIONS-START -->
@@ -20,4 +46,5 @@
 ---
 
 <!-- UPDATED-START -->
+_Stats auto-updated 2026-04-04 15:40 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
