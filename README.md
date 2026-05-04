@@ -22,19 +22,6 @@
 _Screen time from macOS display events, snapshotted daily. *365-day extrapolated (accumulating real data)._
 
 _User AI session hours measured from AI message timestamps (reading, thinking, typing between responses)._
-
-## AI Model Usage (last 30 days)
-
-| Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 2 | 4 | 128 | 0 | $0.21 | $0.00 | $0.01 |
-| **Total** | **2** | **4** | **128** | **0** | **$0.21** | **$0.00** | **$0.01** |
-
-_54K total tokens processed. 0% cache hit rate._
-
-_$0.01 total saved ($0.00 caching + $0.01 model routing vs all-Opus)._
-
-_Model savings are modest because ~0% of tokens are cache reads, where price differences between models are small._
 <!-- STATS-END -->
 
 <!-- CONTRIBUTIONS-START -->
@@ -46,5 +33,5 @@ _Model savings are modest because ~0% of tokens are cache reads, where price dif
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-04-28 15:18 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-05-04 14:40 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
