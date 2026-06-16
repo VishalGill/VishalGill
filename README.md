@@ -17,11 +17,11 @@
 | AI worker hours | 0.0h | 0.0h | 0.0h | 0.0h |
 | AI concurrency hours | 0.0h | 0.0h | 0.0h | 0.0h |
 | Interactive sessions | 0 | 0 | 0 | 3 |
-| Worker sessions | 0 | 0 | 0 | 0 |
+| Worker sessions | 4 | 69 | 69 | 67 |
 
 _Screen time from macOS display events, snapshotted daily. *365-day extrapolated (accumulating real data)._
 
-_User AI session hours measured from AI message timestamps (reading, thinking, typing between responses)._
+_User AI session hours are attended interactive time measured from gaps between AI responses and the next user message; AI concurrency hours include attended time, AI generation, and background workers._
 
 _AI session 365-day totals cover 18 days of local assistant session history (not extrapolated)._
 
@@ -29,8 +29,8 @@ _AI session 365-day totals cover 18 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 70 | 4 | 128 | 0 | $0.21 | $0.00 | $0.01 |
-| **Total** | **70** | **4** | **128** | **0** | **$0.21** | **$0.00** | **$0.01** |
+| claude-sonnet-4-6 | 71 | 4 | 128 | 0 | $0.21 | $0.00 | $0.01 |
+| **Total** | **71** | **4** | **128** | **0** | **$0.21** | **$0.00** | **$0.01** |
 
 _54K total tokens processed. 0% cache hit rate._
 
@@ -48,5 +48,5 @@ _Model savings are modest because ~0% of tokens are cache reads, where price dif
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-06-15 15:10 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-06-16 04:29 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
