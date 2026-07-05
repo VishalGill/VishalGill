@@ -14,10 +14,10 @@
 | --- | ---: | ---: | ---: | ---: |
 | Screen time (Mac) | 0h | 0h | 0h | ~0h* |
 | User AI session hours | 0.0h | 0.0h | 0.0h | 0.0h |
-| AI worker hours | 0.0h | 0.0h | 0.0h | 0.0h |
-| AI concurrency hours | 0.0h | 0.0h | 0.0h | 0.1h |
+| AI worker hours | 0.0h | 0.0h | 0.1h | 0.0h |
+| AI concurrency hours | 0.0h | 0.0h | 0.1h | 0.1h |
 | Interactive sessions | 0 | 0 | 0 | 3 |
-| Worker sessions | 8 | 71 | 324 | 322 |
+| Worker sessions | 7 | 68 | 325 | 323 |
 
 _Screen time from macOS display events, snapshotted daily. *365-day extrapolated (accumulating real data)._
 
@@ -29,8 +29,8 @@ _AI session 365-day totals cover 18 days of local assistant session history (not
 
 | Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 326 | 4 | 128 | 0 | $0.21 | $0.00 | $0.01 |
-| **Total** | **326** | **4** | **128** | **0** | **$0.21** | **$0.00** | **$0.01** |
+| claude-sonnet-4-6 | 327 | 4 | 128 | 0 | $0.21 | $0.00 | $0.01 |
+| **Total** | **327** | **4** | **128** | **0** | **$0.21** | **$0.00** | **$0.01** |
 
 _54K total tokens processed. 0% cache hit rate._
 
@@ -48,5 +48,5 @@ _Model savings are modest because ~0% of tokens are cache reads, where price dif
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-07-04 20:26 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-07-05 02:40 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
