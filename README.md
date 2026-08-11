@@ -12,7 +12,7 @@
 
 | Metric | Yesterday | Prior 7 Days | Prior 28 Days | Prior 365 Days |
 | --- | ---: | ---: | ---: | ---: |
-| Screen time (Mac) | unavailable | unavailable | unavailable | unavailable |
+| Screen time (Mac) | 0h | 0h | 0h | ~0h* |
 | Interactive human attention | 0.0h | 0.0h | 0.0h | 0.0h |
 | Interactive AI generation | 0.0h | 0.0h | 0.0h | 0.0h |
 | Worker-classified human attention | 0.0h | 0.0h | 0.0h | 0.0h |
@@ -21,7 +21,7 @@
 | Interactive sessions | 0 | 0 | 0 | 10 |
 | Worker sessions | 0 | 0 | 0 | 0 |
 
-_Screen time from macos-pmset-display-assertions; collection status: unavailable._
+_Screen time from macos-pmset-display-assertions; collection status: ok. *365-day estimate uses observed calendar coverage._
 
 _Periods are completed local calendar days ending at midnight; today is excluded._
 
@@ -39,7 +39,7 @@ _AI session 365-day totals cover 18 days of local assistant session history (not
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-08-11 03:24 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-08-11 19:24 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
 
 <div align="center">
