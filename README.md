@@ -10,33 +10,24 @@
 <!-- STATS-START -->
 ## Work with AI
 
-| Metric | 24h | 7 Days | 28 Days | 365 Days |
+| Metric | Yesterday | Prior 7 Days | Prior 28 Days | Prior 365 Days |
 | --- | ---: | ---: | ---: | ---: |
-| Screen time (Mac) | 0h | 0h | 0h | ~0h* |
-| User AI session hours | 0.0h | 0.0h | 0.0h | 0.0h |
-| AI worker hours | 0.0h | 0.0h | 0.1h | 0.1h |
-| AI concurrency hours | 0.0h | 0.0h | 0.1h | 0.1h |
-| Interactive sessions | 0 | 0 | 0 | 3 |
-| Worker sessions | 13 | 76 | 360 | 392 |
+| Screen time (Mac) | unavailable | unavailable | unavailable | unavailable |
+| Interactive human attention | 0.0h | 0.0h | 0.0h | 0.0h |
+| Interactive AI generation | 0.0h | 0.0h | 0.0h | 0.0h |
+| Worker-classified human attention | 0.0h | 0.0h | 0.0h | 0.0h |
+| Worker/headless AI generation | 0.0h | 0.0h | 0.0h | 0.0h |
+| Additive observed work | 0.0h | 0.0h | 0.0h | 0.0h |
+| Interactive sessions | 0 | 0 | 0 | 10 |
+| Worker sessions | 0 | 0 | 0 | 0 |
 
-_Screen time from macOS display events, snapshotted daily. *365-day extrapolated (accumulating real data)._
+_Screen time from macos-pmset-display-assertions; collection status: unavailable._
 
-_User AI session hours are attended interactive time measured from gaps between AI responses and the next user message; AI concurrency hours include attended time, AI generation, and background workers._
+_Periods are completed local calendar days ending at midnight; today is excluded._
+
+_Human attention is unioned wall-clock time, so overlapping sessions are not double-counted. AI generation is additive machine work across sessions; it is not wall-clock concurrency._
 
 _AI session 365-day totals cover 18 days of local assistant session history (not extrapolated)._
-
-## AI Model Usage (all time)
-
-| Model | Requests | Input | Output | Cache read | API Cost | Cache savings | Model savings |
-| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| claude-sonnet-4-6 | 396 | 4 | 128 | 0 | $0.21 | $0.00 | $0.01 |
-| **Total** | **396** | **4** | **128** | **0** | **$0.21** | **$0.00** | **$0.01** |
-
-_54K total tokens processed. 0% cache hit rate._
-
-_$0.01 total saved ($0.00 caching + $0.01 model routing vs all-Opus)._
-
-_Model savings are modest because ~0% of tokens are cache reads, where price differences between models are small._
 <!-- STATS-END -->
 
 <!-- CONTRIBUTIONS-START -->
@@ -48,5 +39,12 @@ _Model savings are modest because ~0% of tokens are cache reads, where price dif
 ---
 
 <!-- UPDATED-START -->
-_Stats auto-updated 2026-07-11 00:42 UTC by [aidevops](https://aidevops.sh) pulse._
+_Stats auto-updated 2026-08-11 03:24 UTC by [aidevops](https://aidevops.sh) pulse._
 <!-- UPDATED-END -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/VishalGill?theme=dark" />
+    <img alt="VishalGill's commit history" src="https://commit-history.com/embed/VishalGill" />
+  </picture>
+</div>
